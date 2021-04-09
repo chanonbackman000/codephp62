@@ -22,7 +22,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 }
 ?>
 
-
 <body>
 <form action="inserttt.php" method="post">
   <div class="form-group">

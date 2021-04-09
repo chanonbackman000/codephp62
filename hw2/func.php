@@ -4,6 +4,7 @@ function GPA($score = 56)
 {
 switch ($score) 
 {
+    
 
     case ($score < 50):
         echo "F";
